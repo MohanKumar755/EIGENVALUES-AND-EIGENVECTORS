@@ -1,4 +1,4 @@
-![image](https://github.com/MohanKumar755/EIGENVALUES-AND-EIGENVECTORS/assets/146155007/2fc136e4-308f-4cf2-a518-c82ec319ebe6)# EIGENVALUES-AND-EIGENVECTORS
+
 # DATE: 06/04/2024
 ## Aim:
 To write a python program to find the Eigenvalues and Eigen Vectors
@@ -19,7 +19,8 @@ E,EV=np.linalg.eig(A)
 print("Eigen values are\n",E,"\nEigen vectors are:\n",EV)
 ```
 ## Output:
-![rank of matrix](https://github.com/MohanKumar755/EIGENVALUES-AND-EIGENVECTORS/assets/146155007/d19f2a84-3931-40f8-a84b-147858686e4d)
+![eigen](https://github.com/MohanKumar755/EIGENVALUES-AND-EIGENVECTORS/assets/146155007/63b75b89-0c2e-42ab-b72f-de95cc83f750)
+
 
 
 ## Result:
