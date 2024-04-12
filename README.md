@@ -13,13 +13,24 @@ To write a python program to find the Eigenvalues and Eigen Vectors
 
 ## Program:
 ```
+*/
+Program to implement  the Eigenvalue and Eigenvector 
+Developed by:Mohankumar.s
+RegisterNumber:23005002014
+/*
 import numpy as np
 A=np.array([[2,2],[1,3]])
 E,EV=np.linalg.eig(A)
 print("Eigen values are\n",E,"\nEigen vectors are:\n",EV)
 ```
 ## Output:
-![eigen](https://github.com/MohanKumar755/EIGENVALUES-AND-EIGENVECTORS/assets/146155007/63b75b89-0c2e-42ab-b72f-de95cc83f750)
+
+Program to implement  the Eigenvalue and Eigenvector 
+Developed by:Mohankumar.s
+RegisterNumber:23005002014
+
+![,m2](https://github.com/MohanKumar755/EIGENVALUES-AND-EIGENVECTORS/assets/146155007/5f5a7687-74f6-4e6f-82cd-3482e211c9f9)
+
 
 
 
