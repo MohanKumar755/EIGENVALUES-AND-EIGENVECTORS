@@ -25,14 +25,7 @@ print("Eigen values are\n",E,"\nEigen vectors are:\n",EV)
 ```
 ## Output:
 
-Program to implement  the Eigenvalue and Eigenvector 
-
-Developed by:Mohankumar.s
-
-RegisterNumber:23005002014
-
-![,m2](https://github.com/MohanKumar755/EIGENVALUES-AND-EIGENVECTORS/assets/146155007/5f5a7687-74f6-4e6f-82cd-3482e211c9f9)
-
+![Screenshot 2024-04-22 111343](https://github.com/MohanKumar755/EIGENVALUES-AND-EIGENVECTORS/assets/146155007/e23f2194-a146-406b-8ee3-034972a73cb8)
 
 
 
