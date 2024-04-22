@@ -1,5 +1,5 @@
-# EIGENVALUES-AND-EIGENVECTORS
-# DATE: 06/04/2024
+# EX-4: EIGENVALUES-AND-EIGENVECTORS
+# DATE: 23.03.2024
 ## Aim:
 To write a python program to find the Eigenvalues and Eigen Vectors
 ## Equipment’s required:
@@ -13,8 +13,7 @@ To write a python program to find the Eigenvalues and Eigen Vectors
 
 ## Program:
 ```
-*/
-Program to implement  the Eigenvalue and Eigenvector 
+*/ 
 Developed by:Mohankumar.s
 RegisterNumber:23005002014
 /*
